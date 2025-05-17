@@ -1,0 +1,7 @@
+{
+  "name": "한봄고등학교",
+  "location": "수원시 권선구 호매실로 ",
+  "departments": ["빅데이터정보과", "AI소프트웨어"],
+  "founded": 1980,
+  "isPublic": true
+}
